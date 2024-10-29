@@ -1,0 +1,18 @@
+body {
+    background: #a9bee9;
+    color:green;
+    background-image:url
+  }
+  p {
+    color: #bf0707;
+  }
+  h1 {
+    font-weight: bold;
+    color:firebrick;
+  }
+  
+  img {
+    border:solid;
+    border-width:5px;
+    border-radius:60px;
+  }
