@@ -15,4 +15,5 @@ body {
     border:solid;
     border-width:5px;
     border-radius:60px;
+    text-align: right;
   }
