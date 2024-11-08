@@ -1,6 +1,10 @@
 body {
   background:cyan;
 }
+hr{
+  width:10px;
+  color-scheme:var(40px);
+}
 h1 {
   text-align: center;
   font-size:60px;
