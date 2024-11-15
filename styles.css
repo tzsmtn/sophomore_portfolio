@@ -33,4 +33,10 @@ li a{
   color:purple;
   text-align:center;
   }
+li a:hover:not(.active){
+  background-color:black;
+}
+.active {
+  background-color:green;
+}
 
